@@ -1,7 +1,11 @@
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\Locacao.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\servicos\LocacaoService.java
+C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\daos\LocacaoDao.java
+C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\daos\LocacaoDAOFake.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\Usuario.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\exceptions\LocadoraException.java
+C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\exceptions\NaoPodeDividirPorZeroException.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\utils\DataUtils.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\exceptions\FilmeSemEstoqueException.java
 C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\entidades\Filme.java
+C:\Users\sergio.garcia\git\testesunitarios\TestesUnitarios\src\main\java\com\slpgarcia\servicos\Calculadora.java
