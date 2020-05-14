@@ -1,4 +1,4 @@
-package com.slpgarcia.servicos;
+package com.slpgarcia.builders;
 
 import static com.slpgarcia.builders.FilmeBuilder.umFilme;
 import static com.slpgarcia.builders.UsuarioBuilder.umUsuario;
